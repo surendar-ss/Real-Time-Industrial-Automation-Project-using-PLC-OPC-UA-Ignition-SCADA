@@ -1,0 +1,1 @@
+# Real-Time-Industrial-Automation-Project-using-PLC-OPC-UA-Ignition-SCADA
